@@ -1,0 +1,5 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="box_width">500dp</dimen>
+    <dimen name="box_height">300dp</dimen>
+</resources>
